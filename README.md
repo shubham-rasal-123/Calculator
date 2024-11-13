@@ -1,15 +1,18 @@
-# Calculator
-![image](https://user-images.githubusercontent.com/128680209/227732901-44eced23-afe7-4f95-b0f2-7e1d760b9925.png)
+# Simple Calculator
+
+## Screenshot
+
+![alt text](Screenshot1.png)
 
 ## 🛠 Description
-A calculator using for basic math equation, built by using python.
+
+This project is a basic calculator built with [Python 3]((https://www.python.org/downloads/)) that performs standard arithmetic operations such as addition, subtraction, multiplication, and division. The program takes user input to select an operation and enter numbers, then outputs the result. Designed to be user-friendly, it’s an excellent project for practicing Python fundamentals, including functions, conditionals, and loops. This calculator can be extended with additional operations or error-handling features for a more robust experience.
+
 
 ## ⚙️ Languages or Frameworks Used
 
 You only need Python to run this script. You can visit [here](https://www.python.org/downloads/) to download Python.
 
 ## 🌟 How to run
-`python calculator.py`
 
-## 📺 Demo
-![image](calculator.png)
++ `python3 calculator.py`
